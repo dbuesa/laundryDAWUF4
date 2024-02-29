@@ -1,5 +1,5 @@
 # laundry management system
-
+..
 ---
 ## Using Tech:
 
@@ -11,7 +11,7 @@
 * Bootstarp
 * HTML5
 * CSS3
-
+p
 
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
