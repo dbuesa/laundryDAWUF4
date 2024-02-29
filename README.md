@@ -11,7 +11,6 @@
 * Bootstarp
 * HTML5
 * CSS3
-* MARC JORNET BOEIRA
 
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
