@@ -13,6 +13,8 @@
 * CSS3
 p
 
+David Buesa - Propietari
+
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
 ---
