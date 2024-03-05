@@ -11,7 +11,7 @@
 * Bootstarp
 * HTML5
 * CSS3
-p
+
 
 David Buesa - Propietari
 
