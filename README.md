@@ -11,9 +11,12 @@
 * Bootstarp
 * HTML5
 * CSS3
-
+<<<<<<< HEAD
+.
 
 David Buesa - Propietari
+=======
+>>>>>>> db15acf9158164b075b783be1876e062a18f4b48
 
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
